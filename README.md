@@ -1,3 +1,5 @@
+# Transfer in progress, it will take a couple of days for them to appear in the new locations
+
 # PrimeKey Developer repositories have moved
 To it's new home at Keyfactor Community.
 Same software and tools, new home. Existing clones and forks should work as before with redirects.
@@ -15,4 +17,6 @@ The repositories previously found here are now availble here:
 * ansible -> https://github.com/Keyfactor/ansible-playbooks
 * containers -> https://github.com/Keyfactor/ejbca-containers
 * signservertools -> https://github.com/Keyfactor/signserver-tools
-* 
+
+# About Keyfactor Community
+
